@@ -16,6 +16,7 @@
     "@types/mime": "^2.0.3",
     "aws-sdk": "^2.1046.0",
     "bcryptjs": "^2.4.3",
+    "class-transformer": "^0.5.1",
     "csv-parse": "^4.15.4",
     "dayjs": "^1.10.6",
     "dotenv": "^10.0.0",
