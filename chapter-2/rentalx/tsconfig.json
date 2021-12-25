@@ -4,6 +4,7 @@
     "module": "commonjs",
     "rootDir": "./",
     "baseUrl": "./src",
+    "outDir": "./dist",
     "paths": {
         "@modules/*": ["modules/*"],
         "@config/*": ["config/*"],
@@ -16,6 +17,6 @@
     "emitDecoratorMetadata": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
-    "resolveJsonModule": true
-  }
+    "resolveJsonModule": true,
+  },
 }
